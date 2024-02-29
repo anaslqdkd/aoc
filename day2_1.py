@@ -89,7 +89,7 @@ def satisfy_cond(mod_list):
 
 
 
-def maiN():
+def main():
     sum_index = 0
     for line in lines[:99]:
         line_id = id(line)
